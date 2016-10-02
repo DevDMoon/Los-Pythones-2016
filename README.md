@@ -6,6 +6,9 @@ Grabs numbers from a text file, the first line is an int meaning the number of l
 
 # Similar Letters
 Input any amount of words and it will search the letters that are present in all of them.
+
 Example:
+
 Input: sv sb sp sy
+
 Output: s
